@@ -68,20 +68,6 @@ Contributions, suggestions, and feedback are welcome. Please create an issue or 
 3. Make your changes and commit them.
 4. Push your changes to your forked repository.
 5. Open a pull request in the main repository.
-
-
-
-## **Contact**
-For any inquiries or further information, you can reach me through the following channels:
-
-- LinkedIn : [Halil Ibrahim Deniz](https://www.linkedin.com/in/halil-ibrahim-deniz/)
-- TryHackMe: [Halilovic](https://tryhackme.com/p/halilovic)
-- Instagram: [deniz.halil333](https://www.instagram.com/deniz.halil333/)
-- YouTube  : [Halil Deniz](https://www.youtube.com/c/HalilDeniz)
-- Email    : halildeniz313@gmail.com
-
-## 💰 You can help me by Donating
-  Thank you for considering supporting me! Your support enables me to dedicate more time and effort to creating useful tools like BackDoorSim and developing new projects. By contributing, you're not only helping me improve existing tools but also inspiring new ideas and innovations. Your support plays a vital role in the growth of this project and future endeavors. Together, let's continue building and learning. Thank you!"<br>
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/halildeniz) 
   [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/denizhalil) 
 
